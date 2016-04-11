@@ -1,0 +1,32 @@
+{
+  "name": "node-js-characterSheet",
+  "version": "0.0.0",
+  "description": "A shared character sheet app for use by DMs and players",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4",
+    "mongoose": "^4"
+  },
+  "engines": {
+    "node": "5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catcherinthezty/node-js-characterSheet"
+  },
+  "keywords": [
+    "node",
+    "character_sheet",
+    "Pathfinder",
+    "rpg",
+    "character",
+    "sheet"
+  ],
+  "author": "John Heinsen",
+  "contributors": [
+  ],
+  "license": "MIT"
+}
